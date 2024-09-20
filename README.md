@@ -19,7 +19,7 @@ The project is highly-opinionated, and there are many other alternate routes it 
 
 - A react-based TWA-ready app, interacting with TON
 - Github actions set to deploy app to github pages
-- A script to connect a telegram bot to the deployed app
+- A script to connect a telegram bot to the deployed app play staor
 
 # How to use
 
